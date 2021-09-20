@@ -21,6 +21,15 @@ body{
     cursor: pointer;
     color: white;
 }
+
+.navbar ul li:hover{
+    color: rgb(212, 212, 212);
+    font-size: 1.3rem;
+    transition: ease-in-out .4s;
+    
+    
+
+}
 .App{
     background-color: rgb(17, 17, 17);
     color: white;
@@ -41,4 +50,9 @@ input[type=text]:focus {
     margin: 20px;
     background-color: #f1f1f1;
  }
+
+.content iframe:hover{
+    transform: translateY(-10px);
+    transition: ease-in-out .4s;
+}
 

@@ -6,7 +6,7 @@ export default function NavBar() {
             <div className="">
                 <div className="">
                     <div>
-                    <h2>LES MEILLEURS DESSIN ANIME 2021</h2>
+                    <h2>LES MEILLEURS DESSIN ANIME  DE 2021</h2>
                     
                     </div>
                    
